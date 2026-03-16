@@ -3,3 +3,6 @@ esto es una nueva lista de git
 2. adry
 3. fari
 4. roro
+5. tonella
+6. fanny
+7. oliver
